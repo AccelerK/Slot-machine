@@ -1,4 +1,4 @@
 ## Read Me!
 #### Author: Keisuke Fujiwara
 
-This is is a fun personal project showcasing and testing my Python knowledge. 
+This is is a personal project designed to showcase my Python skillset. 
