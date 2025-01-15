@@ -8,8 +8,8 @@ MIN_BET = 1
 ROWS = 3
 COLS = 3
 
-symbol_count = {"A": 6, "B": 8, "C": 10, "D": 12}
-symbol_win_value = {"A": 7, "B": 4, "C": 2, "D": 1}
+symbol_count = {"A": 6, "B": 8, "C": 10, "D": 30}
+symbol_win_value = {"A": 50, "B": 10, "C": 6, "D": 2}
 
 #check the bet result
 def check_winnings(columns, lines, bet, values):
